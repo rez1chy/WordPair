@@ -1,6 +1,6 @@
 # wordpair_generator
 
-A new Flutter project.
+Tried creating an application to generate Word Pairs using Flutter.
 
 ## Getting Started
 
